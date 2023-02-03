@@ -1,6 +1,7 @@
 *.txt
 !codingon.txt
-
+/codingon
+codingon/
 # Prerequisites
 *.d
 
